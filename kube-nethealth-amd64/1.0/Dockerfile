@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/kube-nethealth-amd64:1.0

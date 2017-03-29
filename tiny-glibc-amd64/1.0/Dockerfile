@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/tiny-glibc-amd64:1.0

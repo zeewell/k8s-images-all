@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/node-test-amd64:v0.1
